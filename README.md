@@ -29,7 +29,7 @@ O projeto foi desenvolvido como trabalho final na **Firjan SESI/SENAI**, com arq
 
 ## 📑 Índice
 
-- [Screenshots](#-screenshots)
+- [Demonstração em vídeo](#-demonstração-em-vídeo)
 - [Funcionalidades](#-funcionalidades)
 - [Arquitetura](#-arquitetura)
 - [Site map / Fluxo de navegação](#-site-map--fluxo-de-navegação)
@@ -43,33 +43,19 @@ O projeto foi desenvolvido como trabalho final na **Firjan SESI/SENAI**, com arq
 
 ---
 
-## 📸 Screenshots
+## 🎥 Demonstração em vídeo
 
-> 📷 **Adicione aqui os prints da aplicação.** Coloque as imagens na pasta `docs/screenshots/`
-> e ajuste os caminhos abaixo. Sugestão de telas que causam boa impressão:
+Veja o sistema em funcionamento, com narração guiada por uma integrante do grupo:
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <strong>🔐 Login</strong><br/>
-      <img src="docs/screenshots/login.png" alt="Tela de login" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <strong>🎓 Painel do Aluno</strong><br/>
-      <img src="docs/screenshots/student-dashboard.png" alt="Painel do aluno" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <strong>🛒 Catálogo & Carrinho</strong><br/>
-      <img src="docs/screenshots/catalogo.png" alt="Catálogo de produtos" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <strong>📊 Dashboard do Admin</strong><br/>
-      <img src="docs/screenshots/admin-dashboard.png" alt="Dashboard administrativo" width="100%"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=USp93Y5Py4c">
+    <img src="https://img.youtube.com/vi/USp93Y5Py4c/maxresdefault.jpg" alt="▶️ Assista à demonstração do Cantina Management System" width="75%"/>
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <a href="https://www.youtube.com/watch?v=USp93Y5Py4c"><strong>Assistir à demonstração completa no YouTube</strong></a>
+</p>
 
 ---
 
